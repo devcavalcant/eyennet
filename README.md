@@ -1,4 +1,4 @@
-![Banner](https://github.com/0x000b/eyennet/assets/77945215/ff096497-765b-4396-82c6-b4d4729979c5)
+![Banner](https://github.com/0x000b/eyennet/assets/77945215/16a5baa9-311d-4af3-9946-dda0a29d97f2)
 
 <h3 align="center">@EyeNNET</h3>
 
