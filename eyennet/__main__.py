@@ -1,0 +1,3 @@
+import eyennet
+
+eyennet.main()
