@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools","wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eyennet"
+version = "1.0.0"
+authors = [
+    {name = "Henrique Liberato"},
+]
+description = "An simple and modular port and hosts scanner"
+requires-python = ">=3.11"
+keywords = ["scan","network"]
+license = {file = "LICENSE"}
+classifiers = [
+    "License :: MIT License",
+    "Programming Language :: Python :: 3.11",
+    "Operating System :: OS Independent"
+]
+dependencies = [
+    "termcolor>=2.3.0",
+    "click"
+]
+
+[project.urls]
+Homepage = "https://github.com/0x000b/eyennet"
+Repository = "https://github.com/0x000b/eyennet.git"
