@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "eyennet"
 version = "1.0.0"
 authors = [
-    {name = "Henrique Liberato"},
+    {name = "Henrique Cavalcante"},
 ]
 description = "An simple and modular port and hosts scanner"
 requires-python = ">=3.11"
