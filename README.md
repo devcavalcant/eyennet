@@ -14,4 +14,7 @@
 - Be more than a basic scanner
 - Be expandable and solid
 
+### Educational and Academics purposes only!
+This is used for learning more about networks and how it works. Please don't execute it against any website or addresses without prior permission.
+
 <p align="center"><a href="https://github.com/0x000b/">@0x000b</a></p>
